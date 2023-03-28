@@ -5,7 +5,7 @@ const Footer = () => {
   return (
       <Box sx={{ mt: 'auto', p: '0.2rem', bgcolor: '#efefef', zIndex:1201 }}>
         <Typography sx={{ textAlign: 'center', verticalAlign: 'middle' }}>
-          Made with love by Supravat</a>
+          Made with love by Supravat
         </Typography>
       </Box>
   )
