@@ -19,4 +19,4 @@ played i.e the card name, the link and the time it was played
 4. MUI
 
 # Live Site
-- 
+- https://master--moonlit-nasturtium-1bb91f.netlify.app/
